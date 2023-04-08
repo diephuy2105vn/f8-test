@@ -1,0 +1,30 @@
+{
+  "name": "f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon [index.js]",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diephuy2105vn/f8-test.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "f8",
+    "nodejs"
+  ],
+  "author": "diephuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diephuy2105vn/f8-test/issues"
+  },
+  "homepage": "https://github.com/diephuy2105vn/f8-test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
