@@ -1,0 +1,27 @@
+nav {
+  height: 50px;
+  background-color: #29303b;
+  display: flex;
+  align-items: center; }
+
+.navbar-brand {
+  padding: 5px;
+  margin-bottom: 5px; }
+
+.navbar-brand img {
+  border-radius: 5px;
+  margin-bottom: 5px; }
+
+.dropdown button {
+  color: #fff;
+  background-color: transparent;
+  border: none; }
+
+.user-avatar {
+  margin-right: 4px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%; }
+
+div .select-all-checkbox {
+  width: 200px; }
